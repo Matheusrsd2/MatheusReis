@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Matheus dos Reis</h1>
+<h1 align="center">Welcome to my GitHub Profile 👋</h1>
 <h3 align="center">I'm a Fullstack developer who loves technology and data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusrsd2&label=Profile%20views&color=0e75b6&style=flat" alt="matheusrsd2" /> </p>
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [github.com/matheusrsd2](here)
 
 - 📫 How to reach me **matheusreis_@outlook.com**
 
