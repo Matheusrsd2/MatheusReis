@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusrsd2&label=Profile%20views&color=0e75b6&style=flat" alt="matheusrsd2" /> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/matheusrsd2](here)
-
-- 📫 How to reach me **matheusreis_@outlook.com**
+- 🌱 I’m currently learning Mobile Development with Flutter and Backend dev with Microsoft.NET Platform.
+- 📫 How to reach me matheusreis_@outlook.com
 
 
 <h3 align="left">Languages and Tools:</h3>
